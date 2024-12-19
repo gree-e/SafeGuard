@@ -26,7 +26,7 @@ export default {
             //1 - kill player
             //2 - clear inventory
             //3 - ban player (duration specified in "punishmentTime")
-            "punishmentType": 3,
+            "punishmentType": 0,
             //enabling this will send an alert when player combat logs to everyone in game
             "alwaysSendAlert": false,
             //valid input: <number> <day|hour|minute>
